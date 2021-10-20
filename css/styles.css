@@ -1,0 +1,9 @@
+li{
+    list-style-type: none;
+    cursor:pointer;
+}
+ 
+/*When clicked on, add a background color and strike out text */
+.checked {
+    text-decoration: line-through;
+}
